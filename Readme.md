@@ -1,4 +1,4 @@
-Backup for the mini card game done in Java. You can see the detials of this game in the video and pdf
+Backup for the mini card game done in Java. You can see the details of this game in the video and pdf
 
 as4_cmd file is for cmd use. I deleted all the bin, src, class, etc created by eclipse. There is only one java file and one Images folder.
 as4_eclipse is the original version created using eclipse. When I was doing assignment, my Images folder is located inside src folder.
